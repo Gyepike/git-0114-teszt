@@ -1,0 +1,5 @@
+/c/Users/Gyepi/Desktop/HTML0924/SULI/sAJAT/GIT0114
+
+git remote add origin https://github.com/Gyepike/git-0114-teszt.git
+git branch -M main
+git push -u origin main
